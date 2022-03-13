@@ -12,5 +12,7 @@ the player collected.
 The players can only add these 3 pokemon characters to the pocket:
 
 Pikachu – Lightning Bolt
+
 Eevee – Run Away
+
 Charmander – Solar Power
